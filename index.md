@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Shawn Shields Page
 
-You can use the [editor on GitHub](https://github.com/shawnshields/shawnshields.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# About Me
+I graduated from Centennial High School in Gresham Oregon, and joined the workforce in the automobile recycling industry immediately upon graduation. I got married and started a family. Throughout my personal professional development, I supported my wife as she earned her nursing degree, and together we raised two daughters. After twenty-five years of career engagement, reaching a mid-level management position with a major auto recycling and wholesale parts distribution business, I left to pursue a BS electrical engineering. The recycling industry, where I worked for much of my life,  is a great industry. It provides many benefits to society. It is green, it helps people repair cars cost effectively, it provides competition to the large automakers and helps hold prices down. But rather than being in recycling, I desire to be innovative and create new solutions to advance society. I desire greatly to enter a career in renewable energy and make my life pursuit to advance solar, wind, hydropower, and/or nuclear energy to responsibly meet the world’s growing demand for energy. As we do these upgrades, we need to minimize security risk and maximize safety, reliability, and affordability. I have chosen electrical engineering and computer science because I feel like I can use my skills and interests to advance technology that helps people enjoy an ever-increasing quality of life everywhere.
+Currently, in my family of four, my two daughters and I are attending universities. My wife supports our family as a nurse. She had never worked full-time, as I was always the provider, so this endeavor has been challenging emotionally and financially for all of us. I work hard at my studies, but occasionally waver in my resolve and question whether it is worth it to be a full-time student as an alternative to earning a greater income working full-time. Unfortunately, our current household income doesn’t cover all the costs, and my wife is still repaying her loans from nursing school while we take on more debt under deferment. This scholarship will make a difference in my family’s life because our current and future payments to student loan interest would be monies much better spent to improve our quality of life for our family while my daughters and I are attending college, and put us all on a better track upon graduation, when we enter repayment. Ultimately, I know that my path will be well worth it when our career goals and our life’s pursuit to make the world a better place are realized. For my daughters, I want nothing more for them to be successful and have a comfortable and rewarding life with great families of their own someday. Their college education is important to me and to our family as well. I truly believe this is the path that will enable these dreams to come true.
+Together, we raised two daughters who will be graduating high school in 2018 and 2019 and going off to universities.  My professional experience is extensive and has been focused on sales and operations management. After seven years as a multi-site manager with my last position, developments in the business organization and culture signaled to me that it was time for change. I took advantage of an opportunity to explore other endeavors, and my focus now is pursuit of an engineering degree in electrical and computer science.  
+I am pursuing a career in energy, especially interested in advancing and implementing technology that prevents blackouts and improves power system reliability. Also, I am interested in advancing non-hydro-renewable energy  to responsibly meet the world’s growing demand for energy. I am currently in an Electrical Engineering Internship position with Schweitzer Engineering Laboratories in R&D in the Distribution Controls and Sensors department and am working towards becoming a power engineer. I am extremely impressed with the quality of this company and I feel like the attitudes and mission align neatly with my own. I fully intend to grow in this company and will work hard to advance to my next step. I see myself graduating from BSU with a BSEE in 2022. Upon graduation, I intend to get an associate engineering position with SEL. I intend to take the fundamentals of engineering exam and began working towards my PE. In five years, I will be back at the university studying for my masters. Eventually I want to become a fully licensed professional engineer and I want to make lifelong learning my life’s pursuit ---eventually becoming a distinguished engineer and an expert in my field. I hope to have papers and patents. I wish to use my future skills to help others be better engineers and create new solutions to new problems that haven’t even been thought about yet.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shawnshields/shawnshields.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
