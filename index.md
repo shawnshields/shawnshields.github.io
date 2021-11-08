@@ -23,20 +23,29 @@ Recent Coursework
 Skills:
 - [ ] MATLAB
 - [ ] Simulink
-- [ ] Simscape Electrical
 - [ ] Mathcad
 - [ ] Powerworld
+- [ ] Vivado logic analyzer
+- [ ] Three-phase power systems
+- [ ] Practical knowledge of SEL protective relays & automation controllers
+- [ ] Simulation programming
+- [ ] Simscape Electrical
 - [ ] OPAL RT-Lab
 - [ ] RTDS/RSCAD
-- [ ] Oscilloscope
-- [ ] Vivado logic analyzer
 - [ ] LTspice analog circuit simulation
+- [ ] Oscilloscopes
+- [ ] Python/TTL/BASH script files
+- [ ] Go Programming Language
+- [ ] Java Programming Language
 - [ ] GitHub version control
 - [ ] Visual Studio Code
 - [ ] Eclipse IDE
-- [ ] Microsoft Office
+- [ ] Professional Communication
+- [ ] Microsoft Visio
+- [ ] Microsoft Word
+- [ ] Microsoft Excel
 
 Course Interests
-- [ ] CS:253 - C Programming Language
+- [ ] CS:253 - Software Development in C Programming Language - Spring 2022
 - [ ] ECE:574 - Power System Analysis II - Spring 2022
 - [ ] ECE:570 - Electric Machines - Spring 2022
