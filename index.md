@@ -13,10 +13,30 @@ As Einstein said:
 >The measure of intelligence 
 >is the ability to change.
 
+Recent Coursework
+- [ ] ECE:573 - Power Systems Analysis
+- [ ] ECE:572 - Power Electronics
+- [ ] ECE:350 - Signals & Systems
+- [ ] ECE:360 - System Modeling & Control
+- [ ] CS:321 - Introduction to Algorithms
+
+Skills:
+- [ ] MATLAB
+- [ ] Simulink
+- [ ] Simscape Electrical
+- [ ] Mathcad
+- [ ] Powerworld
+- [ ] OPAL RT-Lab
+- [ ] RTDS/RSCAD
+- [ ] Oscilloscope
+- [ ] Vivado logic analyzer
+- [ ] LTspice analog circuit simulation
+- [ ] GitHub version control
+- [ ] Visual Studio Code
+- [ ] Eclipse IDE
+- [ ] Microsoft Office
+
 Course Interests
-- [ ] ECE:337 - Intro to Sec in Cyber-Phys Sys - Spring 2021
-- [ ] ECE:371 - Smart Grid & Renew Energy Syst - Spring 2021
-- [ ] ECE:472 - Power Electronics - Fall 2021
-- [ ] ECE:473 - Power System Analysis - Fall 2021
-- [ ] ECE:474 - Power System Analysis - Spring 2022
-- [ ] ECE:470 - Electric Machines - Spring 2022
+- [ ] CS:253 - C Programming Language
+- [ ] ECE:574 - Power System Analysis II - Spring 2022
+- [ ] ECE:570 - Electric Machines - Spring 2022
