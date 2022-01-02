@@ -1,4 +1,4 @@
-## Welcome to Shawn Shields Page
+## Welcome to Shawn Shields's Page
 
 [LinkedIn] (www.linkedin.com/in/shawn-shields-83319615)
 
