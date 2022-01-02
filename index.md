@@ -4,9 +4,16 @@
 
 # About Me
 
-I work in energy, advancing and implementing technology that prevents blackouts and improves power system reliability. I am interested in advancing non-hydro-renewable energy  to responsibly meet the world’s growing demand for energy. I am currently with Schweitzer Engineering Laboratories in R&D in the Distribution Controls and Sensors. I am proud to work for SEL because I feel like the attitudes and mission are aligned neatly with my own. I intend to continue expanding my understanding of electrical engineering in my career as an electrical engineer. I passed the the fundamentals of engineering exam August 2021 and have begun working towards my PE. I intend to go on and obtain my masters and eventually I want to become a fully licensed professional engineer. I want to make lifelong learning my life’s pursuit ---eventually becoming a distinguished engineer and an expert in my field. I hope to have published papers and patents. I wish to use my future skills to help others be better engineers and create new solutions to new problems that haven’t even been thought about yet.
+On January 1st 2022, I accepted a position with SEL as an Associate Power Engineer.
 
-I have worked in the automobile recycling industry for most of my professional life. After twenty-five years of career engagement, reaching a mid-level management position with a major auto recycling and wholesale parts distribution business, I left to pursue a BS electrical engineering. The recycling industry that I left is a great industry. It provides many benefits to society. It is green, it helps people repair cars cost effectively, it provides competition to the large automakers and helps hold prices down. My new journey is in pursuit of a desire to innovate and create new solutions that advance society. I am interested in Distributed Energy Resources and their interface to the power grid.  As advances in renewable energy including solar, wind, hydropower, and/or nuclear energy help responsibly meet the world’s growing demand for energy, I recongnize a need to minimize security risk and maximize safety, reliability, and affordability. I have chosen electrical engineering and computer science because I feel like I can use my skills and interests to advance technology that helps people enjoy an ever-increasing quality of life everywhere.
+I chose to expand my role with SEL because during the time I have been at SEL as an Electrical Engineering Intern, I have come to appreciate the quality and integrity of the company and that of the employee-owners that work here. My supervisor, Ed Atienza, has been a superb mentor and I am grateful for the time and energy he has put into creating an environment where I can learn and grow professionally. He has made it possible for me to make meaningful contributions to the company and its customers through my work. Additionally, I feel the work we do at SEL makes a positive contribution to society and I appreciate the opportunity to be a part of it.I work in energy, advancing and implementing technology that prevents blackouts and improves power system reliability. 
+
+I am currently attending Boise State University and will be graduating in May with my EE degree and CS minor. My background is in the auto recycling industry, where I spent many years helping people keep their cars on the road by make auto repairs more affordable and helping the environment by reducing landfill waste, saving energy, and conserving natural resources. This experience of reduce-reuse-recycle allows me to bring a unique perspective to SEL. Watching the auto industry evolve – seeing the move from fossil fuels to hybrid and electric -- has a lot to do with why I became interested in the power industry. I am drawn to being part of the effort to shift the power grid towards non-hydro renewables where I can impact quality of life for society by advancing technology that creates and manages energy in ways that increasingly are better for the environment and better at conserving earth’s natural resources. 
+
+I feel like the experience I have gained at SEL has been beneficial to me, and I want to continue to learn more about what it takes to make the power system safer, more reliable, and more economical. I am interested in Distributed Energy Resources and their interface to the power grid.  As advances in renewable energy including solar, wind, hydropower, and/or nuclear energy help responsibly meet the world’s growing demand for energy, I recongnize a need to minimize security risk and maximize safety, reliability, and affordability. I have chosen electrical engineering and computer science because I feel like I can use my skills and interests to advance technology that helps people enjoy an ever-increasing quality of life everywhere.
+![image](https://user-images.githubusercontent.com/57693640/147884390-75340e56-ebbd-4c4d-b920-85019b836c0b.png)
+
+I passed the the fundamentals of engineering exam August 2021 and have begun working towards my PE. I intend to go on and obtain my masters and eventually I want to become a fully licensed professional engineer. I have chosen a path making lifelong learning my life’s pursuit and am working towards becoming a distinguished engineer and an expert in my field. I wish to continue developing skills to help others be better engineers and create new solutions to new problems that haven’t even been thought about yet.
 
 https://shawnshields.github.io/
 
@@ -14,12 +21,16 @@ As Einstein said:
 >The measure of intelligence 
 >is the ability to change.
 
+Current Coursework
+- [ ] ECE:470 - Electric Machines 
+- [ ] ECE:573 - Power Systems Analysis II
+
 Recent Coursework
 - [ ] ECE:573 - Power Systems Analysis
 - [ ] ECE:572 - Power Electronics
 - [ ] ECE:350 - Signals & Systems
 - [ ] ECE:360 - System Modeling & Control
-- [ ] CS:321 - Introduction to Algorithms
+- [ ] CS:321 - Data Structures and Algorithms
 
 Skills:
 - [ ] MATLAB
@@ -45,8 +56,3 @@ Skills:
 - [ ] Microsoft Visio
 - [ ] Microsoft Word
 - [ ] Microsoft Excel
-
-Course Interests
-- [ ] CS:253 - Software Development in C Programming Language - Spring 2022
-- [ ] ECE:574 - Power System Analysis II - Spring 2022
-- [ ] ECE:470 - Electric Machines - Spring 2022
